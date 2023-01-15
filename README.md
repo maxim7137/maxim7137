@@ -22,3 +22,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxim7137&layout=compact)](https://github.com/maxim7137/github-readme-stats) -->
+### [Resume](https://resume.io/r/jUzLOkCHy)
