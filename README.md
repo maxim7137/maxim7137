@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://resume.io/r/jUzLOkCHy" target="_blank">Maxim</a> 
+<h1 align="center">Hi there, I'm <a href="https://maxim7137.github.io/EducationalProjects" target="_blank">Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Web Developer student</h3>
+<h3 align="center">Web Developer</h3>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxim7137)](https://github.com/maxim7137/github-readme-stats) -->
 
