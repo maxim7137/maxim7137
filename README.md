@@ -24,7 +24,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxim7137&layout=compact)](https://github.com/maxim7137/github-readme-stats) -->
 ### Resume
 [![resume.io](https://s3.resume.io/uploads/country/logo_default/2/for-light-bg.svg)](https://resume.io/r/jUzLOkCHy)
-[![HeadHunter](https://hhcdn.ru/icms/10132131.svg)](https://hh.ru/resume/4bb01d13ff08203a510039ed1f663267423433)
+[![HeadHunter](.\images\hh.png =32x32)](https://hh.ru/resume/4bb01d13ff08203a510039ed1f663267423433)
 
 
 [resume.io](https://resume.io/r/jUzLOkCHy) [HeadHunter](https://hh.ru/resume/4bb01d13ff08203a510039ed1f663267423433)
